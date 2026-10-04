@@ -1,0 +1,6 @@
+{
+  "name": "MineBuilds",
+  "description": "Tutoriais passo a passo de construções no Minecraft com fotos e busca detalhada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

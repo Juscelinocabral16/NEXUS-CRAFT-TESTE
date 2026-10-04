@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MineBuilds</string>
+    <string name="search_placeholder">Pesquisar construções, materiais, estilos...</string>
+    <string name="clear_search">Limpar pesquisa</string>
+    <string name="filter_all">Todas</string>
+    <string name="category_houses">Casas</string>
+    <string name="category_farms">Fazendas</string>
+    <string name="category_castles">Castelos</string>
+    <string name="category_decor">Decoração</string>
+    <string name="category_survival">Sobrevivência</string>
+    <string name="difficulty_beginner">Iniciante</string>
+    <string name="difficulty_intermediate">Intermediário</string>
+    <string name="difficulty_advanced">Avançado</string>
+    <string name="difficulty_master">Mestre</string>
+    <string name="step_label">Passo %1$d de %2$d</string>
+    <string name="materials_required">Materiais Necessários</string>
+    <string name="start_building">Iniciar Construção</string>
+    <string name="previous_step">Passo Anterior</string>
+    <string name="next_step">Próximo Passo</string>
+    <string name="finish_build">Concluir Construção</string>
+    <string name="mark_completed">Marcar como Concluído</string>
+    <string name="favorite_added">Adicionado aos favoritos!</string>
+    <string name="favorite_removed">Removido dos favoritos.</string>
+</resources>
